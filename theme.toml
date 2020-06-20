@@ -3,7 +3,7 @@
 
 name = "CV Yuri Bastos Gabrich"
 license = "MIT"
-licenselink = ""
+licenselink = "https://raw.githubusercontent.com/yurigabrich/yurigabrich.github.io/master/LICENSE.md"
 description = "Online CV and portfolio of an aspiring technical writer."
 homepage = "https://github.com/yurigabrich/yurigabrich.github.io"
 tags = ["cv", "resume"]
