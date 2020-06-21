@@ -4,7 +4,7 @@ baseURL = "http://example.org/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-158699957-16"
 
 
 
