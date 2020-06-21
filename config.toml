@@ -99,13 +99,13 @@ googleAnalytics = "UA-158699957-16"
         enable = true
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        university = "University College London"
-        dates = "2010 - 2011"
+        degree = "MSc in Computational Science"
+        university = "Rio de Janeiro State University"
+        dates = "2016 - 2019"
         [[params.education.list]]
-        degree = "BSc Maths and Physics"
-        university = "Imperial College London"
-        dates = "2007 - 2010"
+        degree = "BSc in Power Engineering"
+        university = "Federal Center for Technological Education ''Celso Suckow da Fonseca''"
+        dates = "2008 - 2013"
 
 
 
