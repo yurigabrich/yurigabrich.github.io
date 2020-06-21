@@ -1,8 +1,8 @@
 # Page settings
 
-baseURL = "http://example.org/"
+baseURL = "https://yurigabrich.github.io/"
 languageCode = "en"
-title = ""
+title = "CV Yuri Bastos Gabrich"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-158699957-16"
 
@@ -12,8 +12,8 @@ googleAnalytics = "UA-158699957-16"
 
 
 [params]
-    author = "CowboySmall"
-    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    author = "Yuri Bastos Gabrich"
+    description = "Online CV and portfolio of an entry-level technical writer."
 
 
     primaryColor = "#54B689"
@@ -24,8 +24,8 @@ googleAnalytics = "UA-158699957-16"
 
     [params.profile]
         enable = true
-        name = "Simon Doe"
-        tagline = "Senior Software Engineer"
+        name = "Yuri Bastos Gabrich"
+        tagline = "Technical Writer"
         avatar = "avatar.png"
 
 
@@ -36,20 +36,20 @@ googleAnalytics = "UA-158699957-16"
 
     [params.contact]
         enable = true
-        location = "New York"
+        location = "Rio de Janeiro"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
-        url = "tel:#"
-        text = "0123 4567 890"
+        url = "https://api.whatsapp.com/send?phone=5521985000211"
+        text = "+55 21 985-000-211"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:#"
-        text = "simon.doe@yourwebsite.com"
+        url = "mailto:yuribgabrich@gmail.com"
+        text = "yuribgabrich[at]gmail[dot]com"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "#"
-        text = "www.yourwebsite.com"
+        url = "https://github.com/yurigabrich/"
+        text = "github.com/yurigabrich"
 
 
 
