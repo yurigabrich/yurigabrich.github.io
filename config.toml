@@ -115,7 +115,7 @@ googleAnalytics = "UA-158699957-16"
 
 
     [params.awards]
-        enable = true
+        enable = false
 
         [[params.awards.list]]
         name = "Award Lorem Ipsum"
