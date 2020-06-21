@@ -137,11 +137,14 @@ googleAnalytics = "UA-158699957-16"
         enable = true
 
         [[params.languages.list]]
+        name = "Portuguese"
+        level = "Native"        
+	[[params.languages.list]]
         name = "English"
-        level = "Native"
-        [[params.languages.list]]
-        name = "Spanish"
         level = "Professional"
+        [[params.languages.list]]
+        name = "French"
+        level = "Limited"
 
 
 
