@@ -284,18 +284,27 @@ googleAnalytics = "UA-158699957-16"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/username"
-        title = "username"
+        url = "https://github.com/yurigabrich/"
+        title = ""
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/username"
-        title = "username"
+        url = "https://www.linkedin.com/in/yurigabrich/"
+        title = ""
         [[params.social.list]]
-        icon = "fab fa-twitter-square"
-        url = "//twitter.com/username"
-        title = "@username"
-
-
-
+        icon = "fab fa-goodreads"
+        url = "https://www.goodreads.com/user/show/15534139-yuri-gabrich"
+        title = ""
+        [[params.social.list]]
+        icon = "fab fa-soundcloud"
+        url = "https://soundcloud.com/yuri-gabrich"
+        title = ""
+        [[params.social.list]]
+        icon = "fab fa-strava"
+        url = "https://www.strava.com/athletes/ygabrich"
+        title = ""
+        [[params.social.list]]
+        icon = "fas fa-passport"
+        url = "https://www.couchsurfing.com/people/yuri.gabrich"
+        title = ""
 
 
