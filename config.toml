@@ -186,7 +186,7 @@ googleAnalytics = "UA-158699957-16"
         [[params.experience.list]]
         title = "Engineering Title Reviewer"
         dates = "Feb 2020 - Present"
-        company = "Study.com"
+        company = "Study.com (Remote)"
         details = "Consultant on edit and preparation of titles and questions. Usually, performs the tasks of correcting grammar, spelling, capitalization, and punctuation errors in the original files; recreating formulas with LaTeX; organizing and re-phrasing the questions when they are poorly written; responding to feedback and requests from reviewers and updating work accordingly."
 
         [[params.experience.list]]
@@ -209,15 +209,9 @@ googleAnalytics = "UA-158699957-16"
         title = "Electrical Engineering Intern"
         dates = "Aug 2012 - Mar 2013"
         company = "Cégep de Trois-Rivières (QC, Canada)"
-        details = "The developer of a virtual overcurrent relay for didactic use with LabVIEW. As part of a student exchange program, has worked in collaboration with professors from both countries to design and replicate all programming menus, operating logic and device specifications."
+        details = "Trainee to develop a virtual overcurrent relay for didactic use with LabVIEW. As part of a student exchange program, has worked in collaboration with professors from both countries to design and replicate all programming menus, operating logic and device specifications."
         [[params.experience.list.items]]
-        details = "Implemented a multilanguage platform ​​(Portuguese, French and English)."
-        [[params.experience.list.items]]
-	details = "Brang usability for specific technical configurations."
-        [[params.experience.list.items]]
-	details = "Created an option to generate a report in PDF of the short circuit test."
-        [[params.experience.list.items]]
-	details = "Failed to do the correct documentation of the software development."
+        details = "Development of the *Relais de surintensité avec LabVIEW*."
 
 
 
@@ -241,8 +235,9 @@ googleAnalytics = "UA-158699957-16"
         meta = "Open Source"
         tagline = "A software to identify building shades surrounding a target roof during a year cycle. It borrows the codes from EnergyPlus and uses pandas to analyze a huge amont of data. Although the development has been paused for a while, contributions are welcome at the [project repo](https://github.com/yurigabrich/EnergyPlusShadow)."
 
-
-
+	# title = "Relais de surintensité avec LabVIEW"
+	# meta = "Unpublished"
+	# tagline = "Implemented a multilanguage platform ​​(Portuguese, French and English). + Brang usability for specific technical configurations. + Created an option to generate a report in PDF of the short circuit test. + Failed to do the correct documentation of the software development."
 
 
 
