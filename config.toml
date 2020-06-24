@@ -205,6 +205,7 @@ googleAnalytics = "UA-158699957-16"
         details = "Volunteer position to manage local activities on behalf of IEEE to retain graduated and professional members, and to increase the engagement of enthusiastic, dynamic, and innovative volunteers. By focusing on the presence of IEEE YP Rio on social media and other communication channels has expanded the multidisciplinary network of members that prevails until nowadays."
         [[params.experience.list.items]]
         details = "Creation of a Volunteer Manual to guide future leaders through management opportunities and pitfalls."
+        [[params.experience.list.items]]
 	details = "Creation of a how-to-guide for the Volunteers Mapping integration with Facebook and the updating on Google Fusion Table."
 
 	[[params.experience.list]]
@@ -214,8 +215,11 @@ googleAnalytics = "UA-158699957-16"
         details = "The developer of a virtual overcurrent relay for didactic use with LabVIEW. As part of a student exchange program, has worked in collaboration with professors from both countries to design and replicate all programming menus, operating logic and device specifications."
         [[params.experience.list.items]]
         details = "Implemented a multilanguage platform ​​(Portuguese, French and English)."
+        [[params.experience.list.items]]
 	details = "Brang usability for specific technical configurations."
+        [[params.experience.list.items]]
 	details = "Created an option to generate a report in PDF of the short circuit test."
+        [[params.experience.list.items]]
 	details = "Failed to do the correct documentation of the software development."
 
 
