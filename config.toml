@@ -264,13 +264,17 @@ googleAnalytics = "UA-158699957-16"
         [[params.information.list]]
         title = "Papers"
         [[params.information.list.items]]
-        details = "2018 · Lorem Ipsum"
+        details = "2020 · Mobility, Citizens, Innovation and Technology in Digital and Smart Cities · [doi](https://doi.org/10.3390/fi12020022)"
         [[params.information.list.items]]
-        details = "2016 · Sed Fringilla"
+        details = "2019 · When CI and Decentralized Systems Effectively Meet Smart Cities and Grids · [doi](https://doi.org/10.1007/978-3-030-12255-3_15)"
+        [[params.information.list.items]]
+        details = "2017 · Tendências para Sistemas Microgrids em Cidades Inteligentes: Uma Visão Sobre a Blockchain · [PDF](http://www.sbpo2017.iltc.br/pdf/169695.pdf)"
+        [[params.information.list.items]]
+        details = "2010 · Energia e Meio Ambiente: uma Alternativa Sustentável - Energia Solar Fotovoltaica · [PDF](http://dippg.cefet-rj.br/attachments/article/268/PIBIC_2009_livroDeResumos.pdf)"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Climbing, Snowboarding, Photography, Travelling"
+        details = "Music, Bike, Adventure, Travel"
 
 
 
