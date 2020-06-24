@@ -157,13 +157,13 @@ googleAnalytics = "UA-158699957-16"
         enable = true
 
         [[params.interests.list]]
-        name = "Climbing"
+        name = "Music"
         [[params.interests.list]]
-        name = "Snowboarding"
+        name = "Bike"
         [[params.interests.list]]
-        name = "Photography"
+        name = "Adventure"
         [[params.interests.list]]
-        name = "Travelling"
+        name = "Travel"
 
 
 
@@ -271,10 +271,6 @@ googleAnalytics = "UA-158699957-16"
         details = "2017 · Tendências para Sistemas Microgrids em Cidades Inteligentes: Uma Visão Sobre a Blockchain · [PDF](http://www.sbpo2017.iltc.br/pdf/169695.pdf)"
         [[params.information.list.items]]
         details = "2010 · Energia e Meio Ambiente: uma Alternativa Sustentável - Energia Solar Fotovoltaica · [PDF](http://dippg.cefet-rj.br/attachments/article/268/PIBIC_2009_livroDeResumos.pdf)"
-
-        [[params.information.list]]
-        title = "Interests"
-        details = "Music, Bike, Adventure, Travel"
 
 
 
