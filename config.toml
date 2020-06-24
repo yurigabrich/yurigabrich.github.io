@@ -259,9 +259,9 @@ googleAnalytics = "UA-158699957-16"
         [[params.information.list]]
         title = "Papers"
         [[params.information.list.items]]
-        details = "2020 · Mobility, Citizens, Innovation and Technology in Digital and Smart Cities · [doi](https://doi.org/10.3390/fi12020022)"
+        details = "2020 · Mobility, Citizens, Innovation and Technology in Digital and Smart Cities · [DOI](https://doi.org/10.3390/fi12020022)"
         [[params.information.list.items]]
-        details = "2019 · When CI and Decentralized Systems Effectively Meet Smart Cities and Grids · [doi](https://doi.org/10.1007/978-3-030-12255-3_15)"
+        details = "2019 · When CI and Decentralized Systems Effectively Meet Smart Cities and Grids · [DOI](https://doi.org/10.1007/978-3-030-12255-3_15)"
         [[params.information.list.items]]
         details = "2017 · Tendências para Sistemas Microgrids em Cidades Inteligentes: Uma Visão Sobre a Blockchain · [PDF](http://www.sbpo2017.iltc.br/pdf/169695.pdf)"
         [[params.information.list.items]]
