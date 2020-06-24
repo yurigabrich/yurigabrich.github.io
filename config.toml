@@ -192,13 +192,13 @@ googleAnalytics = "UA-158699957-16"
         [[params.experience.list]]
         title = "Partner Strategist"
         dates = "Sep 2017 - Dec 2019"
-        company = "IEEE Young Professionals Rio de Janeiro Section"
+        company = "IEEE YP Rio de Janeiro Section"
         details = "Volunteer position to build strong relationships with organizations serving the needs of the IEEE YP Rio, and support the success of valuable events for society. By establishing and growing business and technical relationships, had the opportunity to engage with local leaders to deliver discussions about electrical vehicles, IoT and humanitarian technologies."
 
         [[params.experience.list]]
         title = "Chair"
         dates = "Jan 2015 - Aug 2017"
-        company = "IEEE Young Professionals Rio de Janeiro Section"
+        company = "IEEE YP Rio de Janeiro Section"
         details = "Volunteer position to manage local activities on behalf of IEEE to retain graduated and professional members, and to increase the engagement of enthusiastic, dynamic, and innovative volunteers. By focusing on the presence of IEEE YP Rio on social media and other communication channels has expanded the multidisciplinary network of members that prevails until nowadays."
         [[params.experience.list.items]]
         details = "Creation of a Volunteer Manual to guide future leaders through management opportunities and pitfalls."
