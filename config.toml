@@ -238,7 +238,7 @@ googleAnalytics = "UA-158699957-16"
         [[params.projects.list]]
 	title = "Relais de surintensité avec LabVIEW"
 	meta = "Unpublished"
-	tagline = "A didactic software with several features, such as multilanguage platform ​​(Portuguese, French and English), usability for specific technical configurations, option to generate a report in PDF of the short circuit test. A step back on software documentation learning curve."
+	tagline = "A didactic software with several features, such as multilanguage platform ​​(Portuguese, French and English), usability for specific technical configurations, and the option to generate a report in PDF of the short circuit test. A step back on software documentation learning curve."
 
 
 
