@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "CV Yuri Bastos Gabrich"
+license = "MIT"
+licenselink = "https://raw.githubusercontent.com/yurigabrich/yurigabrich.github.io/master/LICENSE.md"
+description = "Online CV and portfolio of an aspiring technical writer."
+homepage = "https://github.com/yurigabrich/yurigabrich.github.io"
+tags = ["cv", "resume"]
+features = ["responsive"]
+min_version = "0.41"
+
+[author]
+  name = "Yuri Gabrich"
+  homepage = "https://github.com/yurigabrich/"
+
+# If porting an existing theme
+[original]
+  name = "3rd Wave Media"
+  homepage = "//themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/"
+  repo = "//github.com/xriley/DevResume-Theme"
